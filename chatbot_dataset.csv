@@ -1,0 +1,11 @@
+query,intent,response,entity
+How can I reset my password?,Account Issue,"To reset your password, click on 'Forgot Password' at the login screen.",password
+What is your return policy?,Return Policy,We offer returns within 30 days of purchase with the original receipt.,return
+How do I contact customer support?,Customer Support,You can contact customer support via email or the help center.,support
+How can I track my order?,Order Tracking,You can track your order using the tracking link sent to your email.,tracking
+What payment options do you accept?,Payment Info,"We accept credit/debit cards, PayPal, and other digital wallets.",payment
+I need help with my account,Account Issue,Please log in to your account and go to the 'Help' section.,account
+Where is my refund?,Refund,Refunds take 5-7 business days to process after approval.,refund
+Do you support international shipping?,Shipping,"Yes, we support international shipping with additional charges.",shipping
+Can I change my delivery address?,Delivery,"Yes, you can update your delivery address before the order ships.",delivery
+What are your customer service hours?,Customer Support,Our customer service is available 24/7 via chat and email.,hours
